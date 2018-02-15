@@ -3,7 +3,6 @@ body {
 }
 [class*="container"] {
   background: rgba(250, 250, 250, 0.6);
-  padding: 30px;
   text-align: center;
 }
 [class*="col-"] {
@@ -17,4 +16,7 @@ body {
 }
 [class*="col-"]:hover {
   background: rgba(250, 250, 250, 0.3);
+}
+.navbar {
+  background-color: rgba(250, 250, 250, 0.6);
 }
